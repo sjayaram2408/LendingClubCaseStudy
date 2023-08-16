@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > This projects tries to analyze the lending club data to determine wat factors influence the customer to default on the loan payments.
 
 
